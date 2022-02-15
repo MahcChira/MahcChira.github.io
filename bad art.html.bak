@@ -1,0 +1,373 @@
+<html>
+<head>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+body {
+  background-color: gray;
+}
+</style>
+
+<style>
+div {
+   margin-top: 100px;
+   margin-right: 800px;
+   margin-left: 500px;
+}
+.rectangle{
+  position: relitive;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
+.rectangle {
+  height: 16px;
+  width: 800px;
+  background-color: rgba(217, 156, 89);
+}
+<style>
+.rectangle1 {
+  position: relitive;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
+.rectangle1 {
+  height: 16px;
+  width: 800px;
+  background-color: rgba(155, 168, 213);
+}
+</style>
+<style>
+.rectangle2 {
+  position: relitive;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
+.rectangle2 {
+  height: 16px;
+  width: 800px;
+  background-color: rgba(183, 143, 163);
+}
+</style>
+<style>
+.rectangle3 {
+  position: relitive;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
+.rectangle3 {
+  height: 16px;
+  width: 800px;
+  background-color: rgba(204, 118,85);
+}
+</style>
+<style>
+.rectangle4 {
+  position: relitive;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
+.rectangle4 {
+  height: 16px;
+  width: 800px;
+  background-color: rgba(116, 172, 185);
+}
+</style>
+<style>
+.rectangle5 {
+  position: relitive;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
+.rectangle5 {
+  height: 16px;
+  width: 800px;
+  background-color: rgba(211, 152, 169);
+}
+</style>
+<style>
+.rectangle6 {
+  position: relitive;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
+.rectangle6 {
+  height: 16px;
+  width: 800px;
+  background-color: rgba(218, 154, 90);
+}
+</style>
+<style>
+.rectangle7 {
+  position: relitive;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
+.rectangle7 {
+  height: 16px;
+  width: 800px;
+  background-color: rgba(220, 173, 167);
+}
+</style>
+<style>
+.rectangle8 {
+  position: relitive;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
+.rectangle8 {
+  height: 16px;
+  width: 800px;
+  background-color: rgba(209, 153, 170);
+}
+</style>
+<style>
+.rectangle9 {
+  position: relitive;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
+.rectangle9 {
+  height: 16px;
+  width: 800px;
+  background-color: rgba(143, 177, 93);
+}
+</style>
+<style>
+.rectangle10 {
+  position: relitive;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
+.rectangle10 {
+  height: 16px;
+  width: 800px;
+  background-color: rgba(217, 174, 165);
+}
+</style>
+<style>
+.rectangle11 {
+  position: relitive;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
+.rectangle11 {
+  height: 16px;
+  width: 800px;
+  background-color: rgba(207, 166, 68);
+}
+</style>
+<style>
+.rectangle12 {
+  position: relitive;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
+.rectangle12 {
+  height: 16px;
+  width: 800px;
+  background-color: rgba(146, 182, 214);
+}
+</style>
+<style>
+.rectangle14 {
+  position: relitive;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
+.rectangle14 {
+  height: 16px;
+  width: 800px;
+  background-color: rgba(218, 154 , 91);
+}
+</style>
+<style>
+.rectangle13 {
+  position: relitive;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
+.rectangle13 {
+  height: 16px;
+  width: 800px;
+  background-color: rgba(219, 172, 166);
+}
+</style>
+<style>
+.rectangle15 {
+  position: relitive;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
+.rectangle15 {
+  height: 16px;
+  width: 800px;
+  background-color: rgba(207, 154, 170);
+}
+</style>
+<style>
+.rectangle17 {
+  position: relitive;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
+.rectangle17 {
+  height: 16px;
+  width: 800px;
+  background-color: rgba(107 ,167, 148);
+}
+</style>
+<style>
+.rectangle18 {
+  position: relitive;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
+.rectangle18 {
+  height: 16px;
+  width: 800px;
+  background-color: rgba(185, 142, 159);
+}
+</style>
+<style>
+.rectangle16 {
+  position: relitive;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
+.rectangle16 {
+  height: 16px;
+  width: 800px;
+  background-color: rgba(206, 134, 122);
+}
+</style>
+<style>
+.rectangle19 {
+  position: relitive;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
+.rectangle19 {
+  height: 16px;
+  width: 800px;
+  background-color: rgba(205, 120, 88);
+}
+</style>
+<style>
+.rectangle20 {
+  position: relitive;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
+.rectangle20 {
+  height: 16px;
+  width: 800px;
+  background-color: rgba(156, 162, 208);
+}
+</style>
+<style>
+.rectangle21 {
+  position: relitive;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
+.rectangle21 {
+  height: 16px;
+  width: 800px;
+  background-color: rgba(207, 135, 123);
+}
+</style>
+<style>
+.rectangle22 {
+  position: relitive;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
+.rectangle22 {
+  height: 16px;
+  width: 800px;
+  background-color: rgba(210, 158, 171);
+}
+</style>
+<style>
+.rectangle23 {
+  position: relitive;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
+.rectangle23 {
+  height: 16px;
+  width: 800px;
+  background-color: rgba(210, 171 , 66);
+}
+</style>
+<style>
+.rectangle24 {
+  position: relitive;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
+.rectangle24 {
+  height: 16px;
+  width: 800px;
+  background-color: rgba(220, 175, 170);
+}
+</style>
+
+</head>
+<body>
+<div class="rectangle"></div>
+<div class="rectangle1"></div>
+<div class="rectangle2"></div>
+<div class="rectangle3"></div>
+<div class="rectangle4"></div>
+<div class="rectangle5"></div>
+<div class="rectangle6"></div>
+<div class="rectangle7"></div>
+<div class="rectangle8></div> 
+<div class="rectucgtangle8></div>
+<div class="rectangle9"></div>
+<div class="rectangle10"></div>
+<div class="rectangle11"></div>
+<div class="rectangle12"></div>
+<div class="rectangle13"></div>
+<div class="rectangle14"></div>
+<div class="rectangle15"></div>
+<div class="rectangle16"></div>
+<div class="rectangle17"></div>
+<div class="rectangle18"></div>
+<div class="rectangle19"></div>
+<div class="rectangle20"></div>
+<div class="rectangle21"></div>
+<div class="rectangle22"></div>
+<div class="rectangle23"></div>
+<div class="rectangle24"></div>
+
+
+</body>
+</html> 
