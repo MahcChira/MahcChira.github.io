@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Body: Wake </title>
+<style> 
+#Contain{
+width:1200px;
+margin-left: auto;
+margin-right auto;
+}
+figcaption{
+font-size:30px;}
+</style> 
+</head>
+<body style="background-color:gray;"}>
+<div id="Contain">
+<figure>
+<figcaption>Body: Wake</figcaption>
+<img src="body smol.png" alt="Art of a knight walking throught space leaving a wake" style="width:300px;height:300px;">
+</figure>
+<figure>
+<figcaption>Mind: Path</figcaption>
+<a href"">
+<img src="mind smol.png" alt="link to mind page" style="width:300px;height:300px;"> 
+</a>
+</figure>
+<figure>
+<figcaption>Soul: Remains</figcaption>
+<a href="https://suberic.net/~dmm/food/alchemical_food.html">
+<img src="soul smol.png" alt="Link to soul page" style="width:300px;height:300px;"> 
+</figure>
+<a/>
+<br/>
+Artist statement here
+</br>
+<a href="Index.html">Back to Index</a>
+</div>
+</body>
+</html>

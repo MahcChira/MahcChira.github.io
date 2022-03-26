@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Body: Wake </title>
+<style> 
+#Contain{
+width:1200px;
+margin-left: auto;
+margin-right auto;
+}
+figcaption{
+font-size:30px;}
+</style> 
+</head>
+<body style="background-color:gray;"}>
+<figure>
+<figcaption>Body: Wake</figcaption>
+<img src="FaulkN_MBS_Body.png" alt="Art of a knight walking throught space leaving a wake" style="width:1500px;height:1500px;">
+</figure>
+<figure>
+<a href="3arts.html">MBS Gallery</a>
+<a href="Index.html">Back to Index</a>
+
+</body>
+</html>
